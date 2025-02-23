@@ -1,5 +1,7 @@
 # performant
 
+This is an experimental eBPF program that logs cpu performance events, printing the process name, pid and cpu_id for now.
+
 ## Prerequisites
 
 1. stable rust toolchains: `rustup toolchain install stable`
